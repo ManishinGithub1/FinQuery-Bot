@@ -55,7 +55,7 @@ The **FinQuery-Assistant** project demonstrates how financial documents can be t
 This assignment showcases:
 
 * Practical skills in **document parsing (PyPDF2, Pandas)**
-* Implementing **natural language processing** for financial insights
+* Implementing **natural language processing** and **llama model** for financial insights
 * Clean and interactive **user interface** with Streamlit
 
 Overall, this project highlights how AI-driven systems can simplify financial analysis, making data more **accessible, understandable, and actionable** for users.
