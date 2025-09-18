@@ -28,18 +28,16 @@ It allows users to  **upload Excel files** , ask  **natural language questions**
 
 ## ⚡ Installation & Setup
 
-1. Clone Repository
-   git clone https://github.com/ManishinGithub1/FinQuery-Assistant.git
-   cd FinQuery-Assistant
+1. Clone Repository `` git clone https://github.com/ManishinGithub1/FinQuery-Assistant.git``
+   `cd FinQuery-Assistant`
 2. Create Virtual Environment
-   python -m venv venv
+   `python -m venv venv`
 3. Activate venv
-   venv\Scripts\activate (for Windows users)
-   source venv/bin/activate (for Mac users)
+   `venv\Scripts\activate (for Windows users) source venv/bin/activate (for Mac users)`
 4. Install Dependencies
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 5. Run the App
-   streamlit run app.py
+   `streamlit run app.py`
 6. Upload Documents & Ask Questions
 
 * Upload Excel/PDF files in the Streamlit UI.
